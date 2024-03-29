@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="FullPartyDialogues_Passive_Name" version="1">Личные диалоги</content>
+	<content contentuid="FullPartyDialogues_Passive_Desc" version="1">Позволить всем диалогам работать стандартно.</content>
+	<content contentuid="FullPartyDialogues_Status_Name" version="1">Личные диалоги</content>
+	<content contentuid="FullPartyDialogues_Status_Desc" version="1">Отряд не следует за этим персонажем во время диалогов.</content>
+</contentList>

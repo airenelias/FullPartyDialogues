@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="FullPartyDialogues_Passive_Name" version="1">Private Dialogues</content>
+	<content contentuid="FullPartyDialogues_Passive_Desc" version="1">Allow all dialogues to function as in the base game.</content>
+	<content contentuid="FullPartyDialogues_Status_Name" version="1">Private Dialogues</content>
+	<content contentuid="FullPartyDialogues_Status_Desc" version="1">The party does not follow this character during dialogues.</content>
+</contentList>
